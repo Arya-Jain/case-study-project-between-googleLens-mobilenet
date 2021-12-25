@@ -6,6 +6,10 @@
     margin-top: 10px;
 }
 
+body{
+    background-color: white !important;
+}
+
 span{
     letter-spacing: 1px;
 }
@@ -59,4 +63,14 @@ span{
 h4{
     color: white;
     font-weight: bold;
+}
+
+.copy_right_footer{
+    margin-bottom: 20px;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+.btn{
+    margin-bottom: 60px;
 }
